@@ -23,7 +23,7 @@ Welcome to our Movie Recommendation System repository! This project provides per
 1. Clone the repository:
 
    ```bash
-   git@github.com:shubhambhatt037/Movie-Recommendation-System.git
+   git@github.com:Ayushsaxena0227/Movie-Recommendation-System.git
    ```
    
 2. Install dependencies:
